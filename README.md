@@ -8,5 +8,4 @@ Subject Name:Project Management with Git
 Subject Code:BCS358C
 Academic Year:2025-26
 Mobile No:9980338905
-Email ID:megha@gmail.com
 
