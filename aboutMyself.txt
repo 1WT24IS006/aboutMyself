@@ -6,3 +6,5 @@ Section :A
 Branch :ISE
 Year of Admission:2024
 College Name: GITW
+Email id:Meghac@gmail.com
+
