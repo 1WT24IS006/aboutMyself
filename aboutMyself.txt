@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title:miss
 Full Name : Megha c
 USN : 1WT24IS006
@@ -6,3 +7,13 @@ Section : A
 Branch : Informaton Science and Engineering
 Year of Admission : 2024
 College name : GITW
+=======
+Title:Ms
+Full Name:Megha c
+USN:1WT24IS006
+Semester :Third
+Section :A
+Banch:Information Science and Engineering
+Year of Admission: 2024
+College Name:GITW
+>>>>>>> feature-branch
