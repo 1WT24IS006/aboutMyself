@@ -1,15 +1,4 @@
-Title:Ms
-<<<<<<< HEAD
-Full Name : Megha c
-USN : 1WT24IS006
-Semester: Third
-Section : A
-Branch : Progect Management With Git
-Subject Code:BCS358C
-Year of Admission : 2025-26
-Mobile No:9980338905
-Email Id:meghac@gmail.com
-=======
+Title:Ms.
 Full Name:Megha C
 USN :1WT24IS006
 Semester :Third
@@ -19,4 +8,4 @@ Year of Admission:2024
 College Name: Ghousia Institute of Technology for Women
 Email id:Meghac@gmail.com
 
->>>>>>> feature-branch
+
