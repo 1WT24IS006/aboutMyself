@@ -5,6 +5,6 @@ Semester :Third
 Section :A
 Branch :ISE
 Year of Admission:2024
-College Name: GITW
+College Name: Ghousia Institute of Technology for Women
 Email id:Meghac@gmail.com
 
