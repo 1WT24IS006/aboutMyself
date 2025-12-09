@@ -6,9 +6,5 @@ Section :A
 Branch :ISE
 Year of Admission:2024
 College Name: Ghousia Institute of Technology for Women
-Email id:Meghac@gmail.com
-SSLC :Dr BR Ambedkar girls residential School
-PUC :EX-Municiple govt College Kanakapura
-UG Degree :2nd year BE ISE
 
 
