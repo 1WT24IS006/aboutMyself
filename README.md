@@ -7,6 +7,5 @@ Subject Name:project management with git
 Subject Cose:BCS358C
 Academic year:2025-26
 Mobile no:9980338905
-Email id:meghac@gmail.com
 My date of joining to GITW:24 sep-2024
 
