@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Title:ms
 Full Name :Megha c
 USN:1WT24IS006
@@ -8,18 +7,6 @@ Subject Name:project management with git
 Subject Cose:BCS358C
 Academic year:2025-26
 Mobile no:9980338905
-Email id:Meghac@gmail.com
-
-=======
-Title:Miss
-FULL Name:Megha C
-USN:1WT24IS006
-Semester:Third
-Section:A
-Subject Name:Project Management with Git
-Subject Code:BCS358C
-Academic Year:2025-26
-Mobile No:9980338905
 Email id:meghac@gmail.com
->>>>>>> feature-branch
+My date of joining to GITW:24 sep-2024
 
