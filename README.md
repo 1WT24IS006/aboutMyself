@@ -7,5 +7,5 @@ Subject Name:project management with git
 Subject Cose:BCS358C
 Academic year:2025-26
 Mobile no:9980338905
-My Date of Joining to GITW: 15th-sept-2025
+My Date of Joining to GITW: 2025-09-15
 
